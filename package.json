@@ -1,0 +1,13 @@
+{
+	"name" 					: "todo-app",
+	"version" 				: "0.0.1",
+	"description" 			: "Simple todo app using angular, node and mongo db",
+	"main" 					: "server.js",
+	"dependencies" 			: {
+		"express" 			: "latest",
+		"mongoose" 			: "latest",
+		"morgan" 			: "latest",
+		"body-parser" 		: "latest",
+		"method-override" 	: "latest"
+	}
+}
